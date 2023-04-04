@@ -24,3 +24,4 @@ const idadeSamuel = 20;
 const idadeTodos = (minhaIdade + idadeLucas + idadeSamuel);
 
 console.log(idadeTodos);
+
